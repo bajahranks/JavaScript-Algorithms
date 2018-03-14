@@ -2,6 +2,7 @@
 * Function for counting cards in a Blackjack game. If the every card between 2
 * and 6, add 1. For every card between 10 and A, minus 1. For cards 7,8,9 do 
 * nothing.
+* - Developed by Ravi Lamontagne
 ******************************************************************************/
 
 var count = 0;

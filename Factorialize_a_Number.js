@@ -1,6 +1,7 @@
 /****************************************************************************
 * Function to find the factorial of any integer. The function uses a recursive
 * approach to find the solution.
+* - Developed by Ravi Lamontagne
 *****************************************************************************/
 
 
